@@ -1,0 +1,7 @@
+h1{
+    color: #fff;
+    background-color: rgb(120, 4, 20);
+}
+h1:hover{
+    background-color: rgba(120, 4, 20, 0.8);
+}
