@@ -5,3 +5,20 @@ h1{
 h1:hover{
     background-color: rgba(120, 4, 20, 0.8);
 }
+
+.container{
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #aaa;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(4, 20, 120);
+    color: white;
+    margin: 10px;
+}
